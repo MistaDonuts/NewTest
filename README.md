@@ -1,2 +1,2 @@
-# os_sim
-Operating Systems project simulating a process and device manager.
+# Dev_Sim
+Project simulating a device and process manager for class
